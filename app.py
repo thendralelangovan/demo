@@ -8,4 +8,4 @@ print(d)
 print(c)
 
 e = a*b
-print(e)
+print("e:",e)
