@@ -9,3 +9,4 @@ print(c)
 
 e = a*b
 print("e:",e)
+print(e)
